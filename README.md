@@ -1,18 +1,8 @@
-  _____  _____   ____       _ ______ _____ _______   _____ _____ ______      ___  
- |  __ \|  __ \ / __ \     | |  ____/ ____|__   __| |_   _/ ____|  ____|    / _ \ 
- | |__) | |__) | |  | |    | | |__ | |       | |      | || |    | |__ _____| (_) |
- |  ___/|  _  /| |  | |_   | |  __|| |       | |      | || |    |  __|______\__, |
- | |    | | \ \| |__| | |__| | |___| |____   | |     _| || |____| |____       / / 
- |_|    |_|  \_\\____/ \____/|______\_____|  |_|    |_____\_____|______|     /_/  
-                                                                                  
-------------------------------------------------------------------------------------
+
 
 DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER
 
 DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER DISCLAIMER
-
-
-**********************************vvvvvvvvvvvvv********************************************
 
 
 ICE-9 HAS BEEN REVEALED FOR EDUCATIONAL PURPOSES. YOU ARE RESPONSIBLE OF WHATEVER YOU ARE DOING WITH WHAT IS IN THE ICE-9 REPOSITORY.
